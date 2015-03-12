@@ -35,7 +35,11 @@ button {
 .info {
   position: absolute;
 }
-.left {
+.left1 {
+  left: 200px;
+  top: 500px;
+}
+.left2Q {
   left: 200px;
   top: 500px;
 }
