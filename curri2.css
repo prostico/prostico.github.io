@@ -14,7 +14,13 @@ body {
 }
 h1 {
   margin-top: 50px;
+  position: middle;
   font-size: 60px;
+}
+h2 {
+  width:600px;
+  font-size: 20px;
+  position: middle;
 }
 h3 {
   width: 200px;
@@ -36,20 +42,50 @@ button {
   position: absolute;
 }
 .left1 {
-  left: 200px;
-  top: 500px;
+  left: 700px;
+  top: 200px;
 }
-.left2Q {
-  left: 200px;
-  top: 500px;
+.left2 {
+  left: 1100px;
+  top: 400px;
+  width: 200px;
+}
+.left3 {
+  left: 700px;
+  top: 600px;
+}
+.left4 {
+  left: 700px;
+  top: 800px;
+}
+.left5 {
+  left: 700px;
+  top: 1000px;
 }
 .right {
   right: 600px;
   bottom: 300px;
   width: 400px;
 }
-.middle {
-  left: 50%;
+.middle1 {
+  left: 500px;
+  top: 100px;
+}
+.middle2 {
+  left: 500px;
+  top: 300px;
+}
+.middle3 {
+  left: 500px;
+  top: 500;
+}
+.middle4 {
+  left: 500px;
+  top: 700px;
+}
+.middle5 {
+  left: 500px;
+  top: 900px;
 }
 .bottom {
   bottom: 20px;
