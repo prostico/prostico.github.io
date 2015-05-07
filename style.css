@@ -38,8 +38,11 @@ button {
 
 @media screen and (min-width: 600px) {
   .invisible {
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
+    -webkit-align-items: center;
     align-items: center;
   }
   .info {
