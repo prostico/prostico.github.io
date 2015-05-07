@@ -12,11 +12,11 @@ h3 {
   font-weight: normal;
 }
 
-.invisible * {
+.invisible > * {
   opacity: 0;
 }
 
-.invisible *:hover {
+.invisible > *:hover {
   opacity: 1;
 }
 
